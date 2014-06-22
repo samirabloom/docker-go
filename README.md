@@ -31,4 +31,4 @@ This **Dockerfile** has been published as a [trusted build](https://index.docker
 
     docker run -i -t -name docker_go -rm -v <your git repo directory>:/volume/git samirabloom/docker-go
     
-[Samira Bloom]("https://github.com/samirabloom")
+[Samira Bloom](https://github.com/samirabloom)
