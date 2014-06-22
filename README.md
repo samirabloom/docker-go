@@ -16,7 +16,7 @@ This **Dockerfile** has been published as a [trusted build](https://index.docker
 
 2. Download [trusted build](https://index.docker.io/u/samirabloom/docker-go/) from public [Docker Registry](https://index.docker.io/): `docker pull samirabloom/docker-go`
 
-   (alternatively, you can build an image from Dockerfile: `docker build -t="samirabloom/docker-go" github.com/samirabloom/docker-go`)
+   (alternatively, you can build an image from Dockerfile: `docker build -t="samirabloom/docker-go" github.com/samirarabbanian/docker-go`)
 
 
 ### Usage (two options)
