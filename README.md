@@ -2,7 +2,7 @@
 
 This repository contains a **Dockerfile** to create a docker base image with latest version of Go programming language 
 
-This **Dockerfile** has been published as a [trusted build](https://index.docker.io/u/jamesdbloom/docker_java7_maven/) to the public [Docker Registry](https://index.docker.io/).
+This **Dockerfile** has been published as a [trusted build](https://index.docker.io/u/samirabloom/docker-go/) to the public [Docker Registry](https://index.docker.io/).
 
 
 ### Dependencies
